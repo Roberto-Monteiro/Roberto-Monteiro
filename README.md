@@ -19,7 +19,7 @@
        Linguagens:
         - PHP
         - C
-        - Python
+        - Python*
         - JavaScript
 
  Projetos realizados:
