@@ -4,8 +4,8 @@
      - Tecnico de informática (IFRJ)
      - Data Analyst (IBM)
      - Criptography I (Stanford Online)
-     - Analise e desenvolvimento de sistemas FAETERJ
-     - Engenharia de Software UF
+     - Analise e desenvolvimento de sistemas FAETERJ (3/5)
+     - Engenharia de Software UF (2/8)
  
   Competências:
      - Programação front-end
