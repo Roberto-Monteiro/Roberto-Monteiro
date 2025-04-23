@@ -20,14 +20,10 @@
  Projetos realizados:
     - Implementação do sistema virtual da biblioteca da rede IFRJ - Campus São João de Meriti
        
-- 💞️ Procuro colaborar com novos projetos em potencial e adquirir experiência e amplo conhecimento.
+-  Procuro colaborar com novos projetos em potencial e adquirir experiência e amplo conhecimento.
   Contato:
     - Instagram: @euroberto.fire
 
   ⚡ Fun fact: Sabe por quê na sede da Apple não exitem janelas?
                 Porque lá não tem tem Windowns...
 
-<!---
-Roberto-Monteiro/Roberto-Monteiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
