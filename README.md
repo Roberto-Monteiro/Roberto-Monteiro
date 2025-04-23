@@ -15,7 +15,12 @@
      - Anáise e manutenção de sistema (linux)
      - Redes de computadores e conexôes
      - Controle, criação e administração com todo Office
-       
+
+       Linguagens:
+        - PHP
+        - C
+        - Python
+        - JavaScript
 
  Projetos realizados:
     - Implementação do sistema virtual da biblioteca da rede IFRJ - Campus São João de Meriti
